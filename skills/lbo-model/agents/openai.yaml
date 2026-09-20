@@ -1,0 +1,4 @@
+interface:
+  display_name: "LBO Model"
+  short_description: "Build auditable, stub-aware leveraged buyout models"
+  default_prompt: "Use $lbo-model to build a formula-driven LBO model with Sources & Uses, three statements, debt schedule, and returns."
